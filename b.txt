@@ -1,1 +1,2 @@
 modifiying b.txt
+modifying all content 
